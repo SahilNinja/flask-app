@@ -4,7 +4,7 @@ blinker==1.6.2
 certifi==2022.12.7
 chardet==4.0.0
 click==8.1.7
-Flask==2.3.3
+Flask==2.2.5
 gunicorn==21.2.0
 idna==2.10
 importlib-metadata==6.8.0
