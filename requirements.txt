@@ -14,7 +14,7 @@ MarkupSafe==2.1.3
 neo-api-client @ git+https://github.com/Kotak-Neo/kotak-neo-api.git@b0a60cff0e3198c576c50bd416b68847c287cfea
 numpy==1.21.6
 packaging==23.1
-pandas==2.0.0
+pandas==1.3.5
 pyjsparser==2.7.1
 PyJWT==2.6.0
 python-dateutil==2.8.2
